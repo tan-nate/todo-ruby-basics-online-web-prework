@@ -22,6 +22,6 @@ def last_evaluated_value
   "expert"
 end
 
-def pizza_party(ingred = cheese)
+def pizza_party(ingred = "cheese")
   ingred
 end
